@@ -1,3 +1,0 @@
-# ただのdocs
-
-hogehgoe
