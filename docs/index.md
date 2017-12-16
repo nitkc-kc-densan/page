@@ -2,7 +2,7 @@
 
 ## Welcome to ようこそ nitkc-kc-densan
 
-![電算部室](https://github.com/nitkc-kc-densan/page/blob/master/docs/images/densanroom.jpg)
+![電算部室](https://raw.githubusercontent.com/nitkc-kc-densan/page/master/docs/images/densanroom.jpg)
 
 このページは [熊本高専熊本キャンパス](http://www.kumamoto-nct.ac.jp/) 電算部の公式ホームページです。
 
