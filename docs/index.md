@@ -1,4 +1,4 @@
-# 熊本高専学校 熊本 電算部
+# トップページ
 
 ## Welcome to ようこそ nitkc-kc-densan
 
